@@ -9,5 +9,5 @@
   }
 
   if(5 > 2){
-    echo "E verdadeiro<br>"
+    echo "É verdadeiro<br>";
   }
